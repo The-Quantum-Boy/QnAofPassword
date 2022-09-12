@@ -1,5 +1,7 @@
 #### Idea
 
+#This project shows the question and answer about the how to set strong password
+
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 ![](./idea.png);
